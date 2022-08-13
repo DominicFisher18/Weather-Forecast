@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+}
+
+nav {
+    padding: 20px;
+    background-color: lightblue;
+    text-align: center;
+}
+
+#button1 {
+    background-color: lightblue;
+}
+
+#main-cities {
+    padding: 5px;
+}
+
+#city1, #city2, #city3, #city4, #city5, #city6, #city7, #city8 {
+    margin: 5px;
+}
+
+#section2 {
+    border-style: solid;
+}
+
+#box1 {
+    border-style: solid;
+    margin: 5px;
+    width: 200px;
+}
+
+#box2 {
+    border-style: solid;
+    margin: 5px;
+    width: 200px;
+}
+
+#box3 {
+    border-style: solid;
+    margin: 5px;
+    width: 200px;
+
+}
+
+#box4 {
+    border-style: solid;
+    margin: 5px;
+    width: 200px;
+}
+
+#box5 {
+    border-style: solid;
+    margin: 5px;
+    width: 200px;
+}
+
+.align {
+    display: flex;
+}
